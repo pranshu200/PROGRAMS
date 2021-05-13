@@ -1,4 +1,5 @@
-//  HEAP SORT
+//  Implementing HEAP SORT
+
 #include <bits/stdc++.h>
 #include<iostream>
 using namespace std;
@@ -56,4 +57,11 @@ int main()
     OUTPUT 
 Sorted array:
 8 13 19 21 43 64 76 78 270 346 434 456 601 786 864 
+*/
+
+/*
+Time Complexity
+1.Best Case:O(nlog(n))
+2.Average Case:O(nlog(n))
+3.Worst Case:O(nlog(n))
 */
